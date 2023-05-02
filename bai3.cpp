@@ -1,10 +1,4 @@
 // Bai 3
-//  Suppose the marks obtained by all students are
-// stored in a two-dimensional array. Each row records a student’s
-// marks for five tests. For example, the following array stores the
-// test marks for eight students. Write a program that displays
-// students and the total marks they obtained in five tests, in
-// decreasing order of the total marks.
 
 #include <iostream>
 using namespace std;
